@@ -2,16 +2,16 @@ p{
     color:rgb(255, 255, 255);
     font-size:medium;
     font-family:sans-serif;
+    text-align: center;
 
 
 }
 body{
     color:rgb(0, 0, 0);
-    background-color:rgb(236, 196, 231);
-    background-image:url()
+    background-color:rgb(110, 110, 110);
 }
-img{
- width: 700px;
+img{ 
+    width: 100;
 
 }
 .unifrakturcook {
@@ -20,10 +20,12 @@ img{
     font-style: italic;
     text-align: center;
 }
-div{
-    max-width: 500px;
-    margin: auto;
-}
+
+
+
+
 .name{
+    font-size:medium;
+    font-family:sans-serif;
     text-align: center;
 }
